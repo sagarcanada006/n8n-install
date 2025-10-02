@@ -81,7 +81,7 @@ GENERIC_TIMEZONE=America/New_York
 N8N_EMAIL=your-email@example.com
 
 # DuckDNS config
-DUCKDNS_SUBDOMAIN=sagary
+DUCKDNS_SUBDOMAIN=mydomain
 DUCKDNS_TOKEN=your-duckdns-token
 
 ---
